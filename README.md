@@ -2,17 +2,6 @@
 
 ## Welcome !
 
-  ```json
-  {
-    "name": "Mehdi S",
-    "nickname": "Zaiicko",
-    "age": 23,
-    "location": "Brussels Belgium "
-    "working_at": ""
-    "school": "19 - 42 Network"
-  }
-  ```
-
 <a href="https://www.github.com/Zaiicko" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Zaiicko?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
 
